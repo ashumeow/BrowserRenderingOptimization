@@ -79,5 +79,22 @@ android:layout_height="wrap_content" />
 
 <LinearLayout> is the parent element of 2 <TextView> tags,
 where the 2 <TextView> tags are the children.
+```
+```
+XML Visualizer
 
+(github src: https://github.com/udacity/android-layout/tree/gh-pages)
+(github view: http://udacity.github.io/android-layout)
+
+"150dp" => dp = Density Independent Pixels
+
+Why dp??
+
+Take screen types in devices,
+-- Medium Resolution device
+-- High resolution device
+-- Extra high resolution device
+
+In different devices,
+The pixel size varies where the users needs to be able to tap the button.
 ```
