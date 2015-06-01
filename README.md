@@ -1,10 +1,8 @@
-Udacity is also a good learning platfform. ;) <br>
-<br>
-I generally don't finish any courses. <br>
-I mostly dropout after grasping faster and i might come back later if i want to...
+Udacity is also a good learning platfform. ;) 
+
 ```
 In this repo,
-I will added some stuffs and some coding stuffs collections...
+I will added some stuffs (links, tiny notes, pop-quizzes) and some coding...
 ```
 ```
 List of courses i found it more cool:-
